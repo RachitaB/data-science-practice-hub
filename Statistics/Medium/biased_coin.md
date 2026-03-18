@@ -1,4 +1,4 @@
-# 🪙 Biased Coin (D.E. Shaw)
+# 🪙 Biased Coin Test (D.E. Shaw)
 
 ## ❓ Problem
 
@@ -50,14 +50,14 @@ P(Z < 3.16) ≈ 0.9992
 
 Since this is a **two-tailed test**:
 
-p-value = 1 - 0.9992
-= **0.0008**
+p-value = 2 × (1 - 0.9992)
+= **0.0016**
 
 ---
 
 ## ✅ Conclusion
 
-Since **p-value (0.0008) < 0.05**,
+Since **p-value (0.0016) < 0.05**,
 we **reject the null hypothesis**.
 
 👉 The coin is **very likely biased**.
