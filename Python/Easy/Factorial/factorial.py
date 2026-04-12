@@ -4,3 +4,5 @@ def factorial(n):
     result=result*i
     
   return result
+
+// factorial(5) -> returns 120
