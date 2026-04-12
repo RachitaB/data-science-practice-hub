@@ -1,0 +1,10 @@
+# Solution
+
+def intersection(a, b):
+  res=[]
+  for i in a:
+    if i in b:
+      res.append(i)
+  
+  return res
+
