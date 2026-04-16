@@ -67,30 +67,6 @@ No available gift card meets the minimum expectation of any teammate.
 
 ---
 
-## 🚀 Python Solution
-
-```python
-def max_satisfied(expectations, cards):
-    expectations.sort()
-    cards.sort()
-
-    i = 0
-    j = 0
-    satisfied = 0
-
-    while i < len(expectations) and j < len(cards):
-        if cards[j] >= expectations[i]:
-            satisfied += 1
-            i += 1
-            j += 1
-        else:
-            j += 1
-
-    return satisfied
-```
-
----
-
 ## 🔍 Complexity Analysis
 
 | Metric | Value |
