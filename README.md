@@ -29,4 +29,8 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
