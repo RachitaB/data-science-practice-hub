@@ -26,6 +26,7 @@ Practice and master **data science interview problems** with clean, structured s
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,5 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
