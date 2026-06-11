@@ -28,6 +28,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
+| [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,8 +42,13 @@ Practice and master **data science interview problems** with clean, structured s
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
