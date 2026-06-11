@@ -31,6 +31,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,5 @@ Practice and master **data science interview problems** with clean, structured s
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
