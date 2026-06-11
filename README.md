@@ -29,6 +29,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
