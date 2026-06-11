@@ -30,6 +30,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,5 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
