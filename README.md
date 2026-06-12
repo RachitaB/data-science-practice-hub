@@ -34,6 +34,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,8 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
