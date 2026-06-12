@@ -25,6 +25,7 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
@@ -49,6 +50,7 @@ Practice and master **data science interview problems** with clean, structured s
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -60,4 +62,8 @@ Practice and master **data science interview problems** with clean, structured s
 | [0118-pascals-triangle](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
