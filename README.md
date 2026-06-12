@@ -26,6 +26,7 @@ Practice and master **data science interview problems** with clean, structured s
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
@@ -66,4 +67,12 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
