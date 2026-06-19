@@ -35,10 +35,12 @@ Practice and master **data science interview problems** with clean, structured s
 | [0119-pascals-triangle-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
