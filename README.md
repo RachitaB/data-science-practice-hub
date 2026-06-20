@@ -36,11 +36,13 @@ Practice and master **data science interview problems** with clean, structured s
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,8 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
