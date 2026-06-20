@@ -38,6 +38,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0303-range-sum-query-immutable/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,12 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
