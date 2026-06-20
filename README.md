@@ -37,16 +37,19 @@ Practice and master **data science interview problems** with clean, structured s
 | [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,11 +61,13 @@ Practice and master **data science interview problems** with clean, structured s
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +90,7 @@ Practice and master **data science interview problems** with clean, structured s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
