@@ -39,6 +39,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0303-range-sum-query-immutable/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,18 +59,21 @@ Practice and master **data science interview problems** with clean, structured s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
