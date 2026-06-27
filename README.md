@@ -40,6 +40,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0303-range-sum-query-immutable/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Practice and master **data science interview problems** with clean, structured s
 | [0219-contains-duplicate-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RachitaB/data-science-practice-hub/tree/main/Python3/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
