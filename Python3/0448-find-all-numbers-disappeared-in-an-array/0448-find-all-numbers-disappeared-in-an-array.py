@@ -3,8 +3,8 @@ class Solution:
         n = len(nums)
         temp = [-1] * (n+1)
         res = []
-        for i in range(n):
-            temp[nums[i]] = nums[i]
+        for val in nums:
+            temp[val] = val
         
         for i in range(1,n+1):
             if temp[i] == -1:
